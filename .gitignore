@@ -1,0 +1,13 @@
+# Compilados
+cli/uvcctl
+app/UVCControl
+app/*.app
+app/AppIcon.iconset
+*.dSYM
+
+# macOS / Xcode
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.build/
